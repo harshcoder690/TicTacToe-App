@@ -1,4 +1,4 @@
-# TicTacToe-App
+# TicTacToe-App(Groww Assignment)
 
 A React Native application for playing TicTacToe
 <br>
